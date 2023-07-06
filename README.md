@@ -2,11 +2,14 @@
 
 <h3 align="center">React developer</h3>
 
+**[Skype](https://join.skype.com/invite/zkGVfCTE0Rqb)** | **[LinkedIn](https://www.linkedin.com/in/ilyas-ilyasov/)** | **[Telegram](https://t.me/ilyas_sov)** 
 
-<div style="text-align: center; display: flex; gap: 10px; margin: 0 auto">
-  <a href="https://join.skype.com/invite/zkGVfCTE0Rqb">My Skype</a> |
-  <a href="https://www.linkedin.com/in/ilyas-ilyasov/">My LinkedIn</a> |
-  <a href="https://t.me/ilyas_sov">My Telegram</a>
-</div>
-<!-- **[Skype](https://join.skype.com/invite/zkGVfCTE0Rqb)** **[LinkedIn](https://www.linkedin.com/in/ilyas-ilyasov/)** **[Telegram](https://t.me/ilyas_sov)** -->
-
+### Stack:
+- React
+- JavaScript
+- TypeScript
+- HTML5 / CSS3
+- Redux / Redux Toolkit
+- RTK Query, Axios
+- Styled components
+- Material UI
