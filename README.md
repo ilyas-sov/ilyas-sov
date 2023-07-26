@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Ilyas Ilyasau</h1>
 
-<h3 align="center">React developer</h3>
-![](https://komarev.com/ghpvc/?username=ilyas-sov&color=blue&label=PROFILE+VIEWS)
+<h3 align="center">React developer</h3> 
 
 <div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=ilyas-sov&color=blue&label=PROFILE+VIEWS" alt="Profile Views"/></br>
   ilyasau.ilyas@gmail.com </br></br>
   <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/ilyas-ilyasov/">
     <img src="https://img.shields.io/badge/LinkedIn-%230072b1?style=for-the-badge&logo=LinkedIn&logoColor=white&color=%230072b1" alt="LinkedIn Badge"/>
