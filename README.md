@@ -5,7 +5,7 @@
 <div id="badges" align="center">
   </br>
   <img src="https://komarev.com/ghpvc/?username=ilyas-sov&color=blue&label=PROFILE+VIEWS" alt="Profile Views"/></br>
-  ilyasau.ilyas@gmail.com </br></br>
+   <a href="mailto:ilyasau.ilyas@gmail.com">ilyasau.ilyas@gmail.com</a></br></br>
   <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/ilyas-ilyasov/">
     <img src="https://img.shields.io/badge/LinkedIn-%230072b1?style=for-the-badge&logo=LinkedIn&logoColor=white&color=%230072b1" alt="LinkedIn Badge"/>
   </a>
