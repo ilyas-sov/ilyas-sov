@@ -4,6 +4,13 @@
 
 ### Contacts
 ilyasau.ilyas@gmail.com </br>
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/ilyas-ilyasov/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=blue
+"/>
+  </a>
+</div>
 **[Skype](https://join.skype.com/invite/zkGVfCTE0Rqb)** | **[LinkedIn](https://www.linkedin.com/in/ilyas-ilyasov/)** | **[Telegram](https://t.me/ilyas_sov)** 
 
 ### Stack:
