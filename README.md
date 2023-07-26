@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Ilyas Ilyasau</h1>
 
 <h3 align="center">React developer</h3>
+![](https://komarev.com/ghpvc/?username=ilyas-sov&color=blue&label=PROFILE+VIEWS)
 
 <div id="badges" align="center">
   ilyasau.ilyas@gmail.com </br></br>
