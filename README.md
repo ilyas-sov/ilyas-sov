@@ -20,21 +20,21 @@
 ## Technologies & Tools:
 
 Programming languages: </br>
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23212121?style=for-the-badge&logo=JavaScript&color=%23faf0e4"> <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%23212121?style=for-the-badge&logo=TypeScript&color=%23faf0e4">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23212121?style=for-the-badge&logo=JavaScript&color=%23C2DEDC"> <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%23212121?style=for-the-badge&logo=TypeScript&color=%23C2DEDC">
 </br>
 Frameworks: </br>
-<img alt="Static Badge" src="https://img.shields.io/badge/React-%23212121?style=for-the-badge&logo=React&color=%23faf0e4">
+<img alt="Static Badge" src="https://img.shields.io/badge/React-%23212121?style=for-the-badge&logo=React&color=%23C2DEDC">
 </br>
 CSS Frameworks / Styles: </br>
-<img alt="Static Badge" src="https://img.shields.io/badge/styled--components-%23212121?style=for-the-badge&logo=styled-components&color=%23faf0e4"> <img alt="Static Badge" src="https://img.shields.io/badge/Material_UI-%23212121?style=for-the-badge&logo=MUI&color=%23faf0e4">
+<img alt="Static Badge" src="https://img.shields.io/badge/styled--components-%23212121?style=for-the-badge&logo=styled-components&color=%23C2DEDC"> <img alt="Static Badge" src="https://img.shields.io/badge/Material_UI-%23212121?style=for-the-badge&logo=MUI&color=%23C2DEDC">
 </br>
 State managers: </br>
-<img alt="Static Badge" src="https://img.shields.io/badge/Redux_%2F_Toolkit-%23212121?style=for-the-badge&logo=Redux&logoColor=%23764abc&color=%23faf0e4">
+<img alt="Static Badge" src="https://img.shields.io/badge/Redux_%2F_Toolkit-%23212121?style=for-the-badge&logo=Redux&logoColor=%23764abc&color=%23C2DEDC">
 </br>
 Data-fetching Tools: </br>
-<img alt="Static Badge" src="https://img.shields.io/badge/RTK_Query-%23212121?style=for-the-badge&logo=Redux&logoColor=%23764abc&color=%23faf0e4"> <img alt="Static Badge" src="https://img.shields.io/badge/Axios-%23212121?style=for-the-badge&logo=Axios&logoColor=%239000ff&color=%23faf0e4">
+<img alt="Static Badge" src="https://img.shields.io/badge/RTK_Query-%23212121?style=for-the-badge&logo=Redux&logoColor=%23764abc&color=%23C2DEDC"> <img alt="Static Badge" src="https://img.shields.io/badge/Axios-%23212121?style=for-the-badge&logo=Axios&logoColor=%239000ff&color=%23C2DEDC">
 </br>
 Build Tools: </br>
-<img alt="Static Badge" src="https://img.shields.io/badge/Webpack-%23212121?style=for-the-badge&logo=Webpack&color=%23faf0e4"> <img alt="Static Badge" src="https://img.shields.io/badge/Rollup-%23212121?style=for-the-badge&logo=rollup.js&color=%23faf0e4">
+<img alt="Static Badge" src="https://img.shields.io/badge/Webpack-%23212121?style=for-the-badge&logo=Webpack&color=%23C2DEDC"> <img alt="Static Badge" src="https://img.shields.io/badge/Rollup-%23212121?style=for-the-badge&logo=rollup.js&color=%23C2DEDC">
 </br>
 
